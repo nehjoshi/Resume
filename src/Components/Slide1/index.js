@@ -149,9 +149,9 @@ const Slide1 = () => {
                 <Section2>
                     <Slide1Heading2 ref={Heading2Ref}>Wanna see some of my projects?</Slide1Heading2>
                     <GifWrapper>
-                        <a href="https://blogmantest.netlify.app" rel="noreferrer" target="_blank"><Vid src={vid1} ref={vid1ref}></Vid></a>
-                        <a href="https://blogmantest.netlify.app" rel="noreferrer" target="_blank"><Vid src={vid2} ref={vid2ref}></Vid></a>
-                        <a href="https://blogmantest.netlify.app" rel="noreferrer" target="_blank"><Vid src={vid3} ref={vid3ref}></Vid></a>
+                        <a href="http://blogman-blogs.netlify.app/" rel="noreferrer" target="_blank"><Vid src={vid1} ref={vid1ref}></Vid></a>
+                        <a href="https://github.com/nehjoshi/Netflix-Homepage" rel="noreferrer" target="_blank"><Vid src={vid2} ref={vid2ref}></Vid></a>
+                        <a href="https://github.com/nehjoshi/Miami-School-Of-Code" rel="noreferrer" target="_blank"><Vid src={vid3} ref={vid3ref}></Vid></a>
                     </GifWrapper>
                 </Section2>
                 <Slide1Heading3>Still not impressed?</Slide1Heading3>
